@@ -1,4 +1,4 @@
-package org.example.Model;
+package org.example.Model; //Commit Samuel
 
 import org.neo4j.driver.*;
 
